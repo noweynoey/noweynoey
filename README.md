@@ -29,15 +29,19 @@
 <br/>
 <div align="center">
 	🛠️Tools🛠️
-	<br/>
+	<br/><br/>
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=CSS3&logoColor=white" />
 </div>
+
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noweynoey&layout=compact"><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noweynoey&show_icons=true&theme=radical)
+
+</div>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noweynoey&layout=compact"><br><br>
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noweynoey&show_icons=true&theme=radical)
+</div>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
