@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yewon%20Github&fontSize=90" />
 
-📚Tech Stack📚
-🌟 Platforms & Languages 🌟
 <div align="center">
 	📚Tech Stack📚
 	<br/>
@@ -38,11 +36,10 @@
 
 <br/>
 
+<div align="center">
+	![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noweynoey&show_icons=true&theme=tokyonight)
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noweynoey&layout=compact&theme=tokyonight)
 </div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noweynoey&layout=compact"><br><br>
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noweynoey&show_icons=true&theme=radical)
-</div>
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
