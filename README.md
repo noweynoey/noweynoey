@@ -4,7 +4,6 @@
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
-<hr>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -29,16 +28,13 @@
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
-<hr>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=CSS3&logoColor=white" />
 </div>
-
 <br/>
-
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=noweynoey&show_icons=true&theme=tokyonight" alt="Anurag's github stats">
 	<br>
