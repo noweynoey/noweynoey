@@ -37,6 +37,6 @@
 <br/>
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noweynoey&layout=compact&theme=tokyonight" alt="Top Langs">
+	<br/>
 	<img src="https://github-readme-stats.vercel.app/api?username=noweynoey&show_icons=true&theme=tokyonight" alt="Anurag's github stats">
-	<hr>
 </div>
