@@ -31,6 +31,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noweynoey&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=noweynoey&show_icons=true">
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
 <!--
 **noweynoey/noweynoey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
