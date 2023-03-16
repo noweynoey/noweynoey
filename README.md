@@ -1,7 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yewon Github!&fontSize=90" />
 
+📚Tech Stack📚
+🌟 Platforms & Languages 🌟
 <div align="center">
-	📚Tech Stack📚
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -17,8 +18,10 @@
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=HTML5&logoColor=white" />
-	<br/>
-	🛠️Tools🛠️
+</div>
+
+🛠️Tools🛠️
+<div align="center">
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=CSS3&logoColor=white" />
