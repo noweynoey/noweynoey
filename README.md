@@ -39,7 +39,6 @@
 
 <div align="center">
 	![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noweynoey&show_icons=true&theme=tokyonight)
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noweynoey&layout=compact&theme=tokyonight)
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
