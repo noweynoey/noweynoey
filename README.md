@@ -34,7 +34,7 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=CSS3&logoColor=white" />
 </div>
-<br/><hr>
+<br/>
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noweynoey&layout=compact&theme=tokyonight" alt="Top Langs">
 	<br/>
