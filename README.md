@@ -1,7 +1,6 @@
 // <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yewon%20Github&fontSize=90" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text= &fontSize=90" />
 
-/*
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -36,7 +35,6 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=CSS3&logoColor=white" />
 </div>
 <br/>
-*/
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noweynoey&layout=compact&theme=tokyonight" alt="Top Langs">
 	<br/>
